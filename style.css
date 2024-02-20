@@ -1,0 +1,98 @@
+
+.title{
+  display: block;
+  text-align: center;
+  background-color: antiquewhite;
+  margin-left: auto ;
+  margin-right: auto ;
+  margin-bottom: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  width: 20%;
+  font-family: 'Segoe UI';
+  border: 2px black solid;
+}
+
+.image{
+  display: block;
+  text-align: center;
+  border: 2px black solid;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+}
+
+.details{
+  display: block;
+  text-align: center;
+  border: 1px solid #000;
+  margin-top: 20px;
+  border-radius: 20px;
+  background: rgba(94, 169, 230, 0.295);
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+.buttons{
+  display: block;
+  text-align: center;
+  
+}
+
+a{
+  color: black;
+  text-decoration: none;
+}
+.Youtube :hover{
+  color: rgb(226, 9, 9);
+}
+
+
+
+
+
+.button{
+  background:rgb(250, 244, 237);
+  border: 2px dotted black;
+  text-decoration: none;
+  border-radius: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  cursor: pointer;
+   
+}
+
+.buttons :hover{
+  background: rgb(255, 196, 0);
+}
+
+.box{
+  display: flex;
+  width:  800px;
+  justify-content: space-around;
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 20px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
+  background: #fdfdfd;
+  border-top: 20px solid rgb(0, 153, 255);
+  border-bottom: 10px solid rgb(0, 153, 255);
+  border-left: none;
+}
+
+
+.Alex{
+  margin-top: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Class :hover{
+  color: yellow;
+  cursor: pointer;
+}
